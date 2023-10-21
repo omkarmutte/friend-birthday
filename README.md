@@ -1,4 +1,4 @@
-# impressingCrush
-link mobile.js instead of script.js in index.html to work in mobile.
+# BIRTHDAY WISH 
+Birthday wish to my best and cute friend
 
 Thanks and Happy Coding.
